@@ -2,8 +2,8 @@
 from PIL import Image
 import azure.cognitiveservices.speech as speechsdk
 
-SPEECH_KEY = '<YOUR_SPEECH_KEY>'
-SPEECH_REGION = '<LOCATION>'
+SPEECH_KEY = '<YOUR_SUBSCRIPTION_KEY>'
+SPEECH_REGION = '<YOUR_ENDPOINT>'
 #IMAGE PATH IMPORT
 
 def words_separation(words_list) :
