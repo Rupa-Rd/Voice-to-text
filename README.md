@@ -14,7 +14,7 @@ To run the script, ensure you have the following:
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install azure-cognitiveservices-speech`.
 3. Open the `convert_speech_to_text.py` script and replace `<YOUR_SUBSCRIPTION_KEY>` and `<YOUR_ENDPOINT>` with your actual subscription key and endpoint values.
-4. Run the script using `python convert_speech_to_text.py`.
+4. Run the script using `python speec-to-text.py`.
 5. Provide the path to the audio file or specify the audio input source.
 6. The script will connect to Azure Cognitive Services, transcribe the speech, and display the resulting text along with the individual words.
 
